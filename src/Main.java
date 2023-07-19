@@ -316,7 +316,13 @@ public class Main {
         marks[3]=34;
 
 //        Classical Way To Iterate an Array
-        for(int i=0; i< marks.length; i++){
+//        for(int i=0; i< marks.length; i++){
+//            System.out.println(marks[i]);
+//        }
+
+//        Program to print Reverse Order of Array
+
+        for(int i=marks.length-1;i>=0;i--){
             System.out.println(marks[i]);
         }
 
