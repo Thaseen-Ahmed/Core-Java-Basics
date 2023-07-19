@@ -310,7 +310,7 @@ public class Main {
         */
 
 //        ARRAYS IN JAVA
-/*
+
         int [] marks = {1,2,3,4,5,6,7};
         String [] Fruits = {"Mango","Apple","Grape","Banana","Kiwi","Orange","Strawberry"};
         marks[3]=34;
@@ -320,8 +320,8 @@ public class Main {
             System.out.println(marks[i]);
         }
 
-//        System.out.println(marks[4]);
-//        System.out.println(marks[3]);
+        System.out.println(marks[4]);
+        System.out.println(marks[3]);
 
 //        The Below is For Each Loop in Java
         System.out.println("This Is FOR EACH LOOP");
@@ -337,7 +337,7 @@ public class Main {
         int [][] matrix = {{1,22,3,4},{5,6,7,9,8}};
 //        sout([1]--> the first Array [2]-->The 2nd Index of 1st Array
         System.out.println(matrix[1][2]);
-*/
+
 
 //        Try - Catch in Java
 //
